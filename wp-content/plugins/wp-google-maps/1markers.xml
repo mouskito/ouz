@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<markers>
+  <marker>
+    <marker_id>4</marker_id>
+    <map_id>1</map_id>
+    <title></title>
+    <address>80 avenue de la republique 93300 AUbervilliers</address>
+    <desc></desc>
+    <pic></pic>
+    <icon></icon>
+    <linkd></linkd>
+    <lat>48.9090235</lat>
+    <lng>2.3867659000000003</lng>
+    <anim>2</anim>
+    <category>0</category>
+    <infoopen>1</infoopen>
+  </marker>
+</markers>
